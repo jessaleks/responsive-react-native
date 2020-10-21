@@ -1,0 +1,12 @@
+{
+  "name": "responsive-rn",
+  "displayName": "responsive-rn",
+  "expo": {
+    "name": "responsive-rn",
+    "slug": "responsive-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
